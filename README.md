@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Proyecto de Machine Learning para clasificar automáticamente solicitudes de clientes en dos categorías:
+Proyecto de Machine Learning para clasificar automáticamente comentarios de solicitudes de clientes en dos categorías:
 
 - Reclamo
 - Requerimiento
@@ -13,7 +13,7 @@ El modelo utiliza procesamiento de lenguaje natural (NLP) mediante TF-IDF y Regr
 
 ## Objetivo del negocio
 
-Automatizar la clasificación de solicitudes ingresadas por distintos canales (Call Center, agencias y Libro de Reclamaciones), reduciendo errores de clasificación y mejorando la calidad de la información reportada a los entes regulatorios.
+Automatizar la clasificación de comentarios de solicitudes ingresadas por distintos canales de la empresa, reduciendo errores de clasificación y mejorando la calidad de la información reportada a los entes regulatorios.
 
 ---
 
